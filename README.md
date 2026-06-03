@@ -1,6 +1,6 @@
 # Hi, I'm Lynn Adel 👋
 
-Cyber Security Student at the University of Jordan with hands-on experience in Cybersecurity Operations, Blue Team practices, and Governance, Risk & Compliance (GRC).
+Graduated Cyber Security at the University of Jordan with hands-on experience in Cybersecurity Operations, Blue Team practices, and Governance, Risk & Compliance (GRC).
 
 ## About Me
 
