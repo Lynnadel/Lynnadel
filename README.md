@@ -6,9 +6,8 @@ Graduated Cyber Security at the University of Jordan with hands-on experience in
 
 - Cyber Security Student at the University of Jordan
 - Cybersecurity, Blue Team & GRC Intern at Housing Bank
-- Member of Jo Cyber Club (JCC)
 - Currently pursuing CompTIA Security+
-- Interested in SOC Operations, Blue Teaming, Security Monitoring, Incident Response, and GRC
+- Interested in SOC Operations, Blue Teaming, Security Monitoring, and GRC
 
 ## Areas of Interest
 
