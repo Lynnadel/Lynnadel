@@ -2,7 +2,7 @@ Lynn Adel
 
 Cybersecurity graduate specializing in Blue Team operations, SOC monitoring, and Governance, Risk & Compliance (GRC). CompTIA Security+ candidate.
 
-📍 Amman, Jordan · 🎓 University of Jordan · 🔗 LinkedIn
+📍 Amman, Jordan · 🎓 University of Jordan · 🔗 linkedin.com/in/lynn-adel-8a8128370
 
 
 About
@@ -44,7 +44,3 @@ Repo: UniGo-Student-Services-App
 Languages
 
 Arabic (native) · English (advanced)
-
-Contact
-
-LinkedIn
