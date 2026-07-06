@@ -1,77 +1,50 @@
-# Hi, I'm Lynn Adel 👋
+Lynn Adel
 
-Graduated Cyber Security at the University of Jordan with hands-on experience in Cybersecurity Operations, Blue Team practices, and Governance, Risk & Compliance (GRC).
+Cybersecurity graduate specializing in Blue Team operations, SOC monitoring, and Governance, Risk & Compliance (GRC). CompTIA Security+ candidate.
 
-## About Me
+📍 Amman, Jordan · 🎓 University of Jordan · 🔗 LinkedIn
 
-- Cyber Security Student at the University of Jordan
-- Cybersecurity, Blue Team & GRC Intern at Housing Bank
-- Currently pursuing CompTIA Security+
-- Interested in SOC Operations, Blue Teaming, Security Monitoring, and GRC
 
-## Areas of Interest
+About
 
-- Security Operations Center (SOC)
-- Blue Team Operations
-- Security Monitoring
-- Threat Detection
-- Incident Response
-- Governance, Risk & Compliance (GRC)
-- Risk Assessment
-- Vulnerability Assessment
 
-## Technical Skills
+Cybersecurity graduate, University of Jordan
+Cybersecurity, Blue Team & GRC Intern — Housing Bank
+Pursuing CompTIA Security+
+Focus areas: SOC operations, security monitoring, incident response, risk & compliance
 
-### Security Operations
-- SOC Operations
-- Security Monitoring
-- Threat Detection
-- Incident Response
 
-### Governance & Risk
-- GRC
-- Risk Assessment
-- Compliance
-- Security Controls Review
+Skills
 
-### Security Technologies
-- SIEM Concepts
-- DLP
-- EDR
-- Endpoint Security
+Security Operations — SOC monitoring, threat detection, incident response
+Governance & Risk — GRC, risk assessment, compliance, security controls review
+Security Technologies — SIEM concepts, DLP, EDR, endpoint security
+Tools — Kali Linux, Wireshark, Nmap, Linux fundamentals
 
-### Technical Tools
-- Kali Linux
-- Wireshark
-- Nmap
-- Linux Fundamentals
-- Microsoft Office
+Certifications & Training
 
-## Certifications & Workshops
 
-- CompTIA Security+ (In Progress)
-- SOC & Security Operations Center (SOC) Workshop – Jo Cyber Club (JCC)
-- Penetration Testing Workshop – Jo Cyber Club (JCC)
+CompTIA Security+ (in progress)
+SOC & Security Operations Center Workshop — Jo Cyber Club
+Penetration Testing Workshop — Jo Cyber Club
 
-## Featured Project
 
-### UniGo – Graduation Project
+Featured Project
 
-Student services mobile application designed to support university students through a centralized platform for GPA calculation, grade tracking, course registration support, academic assistance, and notifications.
+UniGo — Graduation Project
 
-**Technologies:** Figma, Flutter, Firebase, API Integration
+A student services mobile app centralizing GPA calculation, grade tracking, course registration support, academic assistance, and notifications.
 
-**My Contribution:**
-- Designed the complete UI/UX of the application using Figma.
-- Created all application screens and user interface layouts.
-- Participated in project planning, testing, and usability improvements.
-- Collaborated with a team of 4 members throughout the project lifecycle.
+Stack: Figma, Flutter, Firebase, REST API integration
 
-## Languages
+Contribution: Led UI/UX design end-to-end in Figma, built all screens and interface layouts, and collaborated with a 4-person team through planning, testing, and usability iteration.
 
-- Arabic (Native)
-- English (Advanced)
+Repo: UniGo-Student-Services-App
 
-## Connect With Me
+Languages
 
-- LinkedIn: www.linkedin.com/in/lynn-adel-8a8128370
+Arabic (native) · English (advanced)
+
+Contact
+
+LinkedIn
